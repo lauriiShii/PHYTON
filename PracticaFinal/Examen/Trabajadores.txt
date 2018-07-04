@@ -1,0 +1,6 @@
+77200128F:1:s:La linea de la Concepción
+77200222H:2:s:Algeciras
+77233128G:3:s:Jimena
+77200128F:1:s:Algeciras77200128F:1:n:La linea de la Concepción
+77200128F:1:n:Algeciras
+77200128F:4:s:Algeciras
